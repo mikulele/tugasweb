@@ -1,0 +1,74 @@
+body {
+	padding: 0 auto;
+	margin: 0 auto;
+}
+
+.anjeng {
+	width: 55%;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.col-left {
+	float: left;
+	width: 50%;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.col-left li{
+	float: right;
+	list-style: none;
+	padding: 10px 5px;
+}
+li a{
+	text-decoration: none;
+	color: #000;
+}
+.clear{
+	clear: both;
+}
+.col1{
+	width: 60%;
+	float: left;
+	margin: 0 auto;
+	padding: 0 auto;
+}.col2{
+	float: left;
+	margin-left: 55px;
+}
+.anjeng2 {
+	width: 55%;
+	margin: 0 auto;
+	padding: 0 auto;
+	border: 1px solid #b4bfbf;
+	border-bottom: 4px solid #b4bfbf; 
+	border-top: none; 
+	height: 500px;
+}
+.anjeng2 a{
+	color: #00b2c2;
+	text-decoration: none;
+}
+.foot li {
+	float: left;
+	list-style: none;
+	padding: 16px 20px;
+}
+.foot{
+	width: 76.5%;
+	margin: 0 auto;
+	padding: 0 auto;
+	float: right;
+}
+.foot li a{
+	color: #4a4a4a;
+}
+.butt{
+	border:transparent;
+	background: #00b2c2;
+	height: 30px;
+ 	width: 70px;
+ 	cursor: pointer;
+ 	color: #fff;
+}

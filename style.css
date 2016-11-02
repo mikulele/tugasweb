@@ -1,0 +1,218 @@
+
+body{
+	margin: 0 ;
+}
+.isi{
+ 	float: left;
+ 	width: 33.33%;
+ 	margin: 0 auto;
+ 	padding: 0 auto;
+ }
+ .isi1 li{
+ 	float: left;
+ }
+ .isi2{
+ 	float: right;
+ 	padding-right: 30px;
+ }
+ .isi3{
+ 	float: right;
+ }
+  .conteiner{
+ 	width: 100%;
+ 	margin: 0 auto;
+ 	padding: 0 auto;
+ }
+ .wrapper2{
+ 	width: 70%;
+ 	margin: 0 auto;
+ 	padding: 0 auto;
+ }
+ nav .wrapper ul {
+ 	list-style: none;
+ }
+  nav .wrapper li{
+ 	float: left;
+ }
+ nav .wrapper li a{
+ 	text-decoration: none;
+ 	color: #fff;
+ }
+ nav .wrapper li a:hover{
+ 	border-bottom: solid #3DFFB4;
+ 	transition: .2s ease;
+ }
+.isi ul ul{
+	background:#a4a4a4;
+	position: absolute;
+	width: 100%;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity .3s ease;
+	padding: 12px 0px;
+}
+.isi ul li {
+	display: inline-block;
+	position: relative; 
+	padding: 20px 15px;
+}
+.isi ul li:hover>ul{
+	visibility: visible;
+	opacity: 1;
+}
+.isi li li {
+	width: 100%;
+	padding: 4px 10px;
+}
+ .isi ul{
+ 	margin: 0;
+ 	padding: 0px 40px;
+ }
+ a .btn	{
+ 	background:#FF8E2B;
+ 	max-height: 30px;
+ 	width: 90px;
+ 	cursor: pointer;
+ 	border: transparent;
+ }
+ a .btn:hover{
+ 	background:#FF7200;
+ 	transition: .3s ease;
+ }
+ .content{
+ 	clear: both;
+ 	text-align: center;
+ 	color: #fff;
+ }
+ a .btn2{
+ 	background:#FF8E2B;
+ 	height-bottom: 50px;
+ 	width: 160px;
+ 	margin: 15px;
+ 	cursor: pointer;
+ 	border: transparent;
+
+ }
+ a .btn2:hover {
+ 	background:#FF7200;
+ 	transition: .3s ease;
+ }
+ .why{
+ 	width: 70%;
+ 	margin: 0 auto;
+ 	padding: 0 auto;
+ }
+ .why1{
+ 	clear: both;
+ 	text-align: center;
+ }
+
+ .why2{
+ 	float:left; 
+ 	width: 33.33%;
+ 	margin: 0 auto;
+ 	padding:0 auto;
+ }
+ .aneh1{
+ 	padding-top: 18px;
+ }
+ .bawah{
+ 	width: 70%;
+ 	margin: 0 auto;
+ 	padding: 0 auto;
+ }
+ .bawah2{
+ 	padding: 30px 0px;
+ }
+.akhir {
+	width: 77%;
+	margin: 0 auto;
+	padding: 0 auto;
+	text-align: center;
+}
+.lieur{
+	clear: both;
+	width: 40%;
+	margin: 0 auto;
+	padding: 0 auto;
+	text-align: center;
+}
+.lieur2{
+	float: left;
+	width: 50%;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+.btnh{
+	background:#FF8E2B;
+	width: 200px;
+	height: 35px;
+	cursor: pointer;
+	border: none;
+}
+.btnh:hover{
+	background:#FF7200;
+	transition: .3s ease;
+}
+.btnh2{
+	background:transparent;
+	width: 200px;
+	height: 35px;
+	cursor: pointer;
+	border: solid 2px grey;	
+}
+.btnh2:hover{
+	background: #000;
+	transition: .3s ease;
+	color: #fff;
+}
+nav .conteiner .wrapper .atas .isi{
+	background:transparent;
+}
+header {
+	background-image: url('img/people-who-enjoy-life-will-live-longer.jpg');
+}
+.bla{
+	clear: both;
+	width: 80%;
+	margin: 0 auto;
+	padding: 0 auto;
+	font-size:16px; 
+
+}
+.bla2{
+	margin: 20px;
+	padding: 100px 0px;
+}
+
+.footer	{
+	clear: both;
+	width: 100%
+	margin:0 auto;
+	padding: 0 auto;
+	background-color: #4a4a4a;
+	height: 300px;
+}
+
+.footer2{
+	width: 33.33%;
+	float: left;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.footer li{
+	list-style: none;
+	padding: 2px 0px;
+}
+.footer li a{
+	text-decoration: none;
+	color: #777;
+}
+.copy{
+	clear: both;
+	width: 80%;
+	margin: 0 auto;
+	padding: 0 auto;
+	text-align:center;
+}
